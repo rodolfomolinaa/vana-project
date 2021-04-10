@@ -1,0 +1,28 @@
+{
+  "name": "vana-project",
+  "version": "1.0.0",
+  "description": "Vana mini project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfomolinaa/vana-project.git"
+  },
+  "author": "Rodolfo Molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfomolinaa/vana-project/issues"
+  },
+  "homepage": "https://github.com/rodolfomolinaa/vana-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "strong-soap": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
